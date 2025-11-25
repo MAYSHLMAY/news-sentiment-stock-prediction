@@ -1,0 +1,18 @@
+# Data handling
+pandas>=2.0
+numpy>=1.25
+
+# Financial data
+yfinance>=0.2.27
+TA-Lib>=0.4.24
+
+# Natural Language Processing / Sentiment
+textblob>=0.17.1
+nltk>=3.8.1
+
+# Visualization
+matplotlib>=3.8
+seaborn>=0.12
+
+# Optional: For notebook environment
+jupyter>=1.0
